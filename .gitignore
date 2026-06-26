@@ -5,3 +5,4 @@ __pycache__/
 venv/
 data/accounts/
 data/analytics/
+personal_finance_dashboard.db
